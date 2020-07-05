@@ -1,0 +1,8 @@
+# 当前应用端口
+service:
+  port: 8080
+
+# 配置当前使用的yml文件
+spring:
+  profiles:
+    active: dev

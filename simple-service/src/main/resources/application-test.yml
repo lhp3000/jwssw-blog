@@ -1,0 +1,3 @@
+# 测试yml配置文件
+spring:
+  environment: multi-environment-test
