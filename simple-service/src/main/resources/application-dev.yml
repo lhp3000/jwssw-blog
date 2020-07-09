@@ -1,5 +1,7 @@
 # 开发配置
 spring:
+  # 当前环境
   environment: multi-dev
+  # 当前工程名称
   application:
     name: simple-service
