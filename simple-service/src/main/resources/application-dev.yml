@@ -1,3 +1,5 @@
-# 开发yml配置文件
+# 开发配置
 spring:
-  environment: multi-environment-dev
+  environment: multi-dev
+  application:
+    name: simple-service

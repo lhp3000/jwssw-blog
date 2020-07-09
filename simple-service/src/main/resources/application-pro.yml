@@ -1,3 +1,0 @@
-# 生产yml配置文件
-spring:
-  environment: multi-environment-pro
