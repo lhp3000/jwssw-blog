@@ -1,0 +1,8 @@
+# 当前服务使用的端口
+service:
+  port: 8080
+
+# 当前服务使用环境
+spring:
+  profiles:
+    active: dev

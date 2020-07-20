@@ -6,6 +6,8 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.stereotype.Component;
 
 /**
+ * 多环境配置类
+ *
  * @author <a href="mailTo:luhaopeng2005@126.com">Luhaopeng</a>
  * @version 1.0
  * @date 2020/7/5 17:59
